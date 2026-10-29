@@ -1,0 +1,12 @@
+.venv
+venv
+.env
+.env.local
+hard-hat-*
+pothole-*
+runs
+ASSETS
+coco*
+*onnx
+datasets
+__pycache__
